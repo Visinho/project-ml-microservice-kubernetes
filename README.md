@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![Visinho](https://circleci.com/gh/Visinho/project-ml-microservice-kubernetes/tree/master.svg?style=svg)](https://https://app.circleci.com/pipelines/github/Visinho/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
